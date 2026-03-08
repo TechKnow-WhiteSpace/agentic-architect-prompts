@@ -185,7 +185,9 @@ Example: "Hi, my name is [REDACTED: NAME] and my email is [REDACTED: EMAIL]."
 ```
 📖 About the Series
 This library was created as part of the Agentic Architect Series—a technical deep dive into building production-grade AI agents using the Google Cloud stack (Gemini, Vertex AI, Firebase Genkit).
+
 Read Part 4 of the series: Prompt Engineering Lab: Mastering System Instructions.
 🤝 Contributing
 Have a bulletproof system instruction you use in production? Pull Requests are welcome! Please ensure any submitted prompts follow the RCCO framework.
+
 Created by Ben White. License: MIT.
