@@ -1,5 +1,3 @@
-# agentic-architect-prompts
-
 # 🏛️ The Agentic Architect Prompt Library
 
 [![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen.svg)]()
