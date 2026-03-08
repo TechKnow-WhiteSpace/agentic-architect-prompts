@@ -58,7 +58,7 @@ response = client.models.generate_content(
 1. 👁️ The UX/UI Video Critic (Multimodal)
 Use Case: Upload a screen recording (.mp4) or screenshot of an app and get a professional UX audit.
 
-Plaintext
+```Plaintext
 
 
 ROLE:
@@ -83,7 +83,7 @@ You must return your response in a strict markdown structure with three headers:
 2. ⚙️ The Strict JSON Extractor (Headless API)
 Use Case: Converting unstructured text or document images into clean JSON for your database.
 
-Plaintext
+```Plaintext
 
 
 ROLE:
