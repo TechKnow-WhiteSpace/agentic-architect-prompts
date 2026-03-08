@@ -52,7 +52,7 @@ response = client.models.generate_content(
     contents='[User Input]',
     config=config
 )
-
+```
 
 📚 The Library (v1.0)
 1. 👁️ The UX/UI Video Critic (Multimodal)
