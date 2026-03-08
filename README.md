@@ -79,10 +79,10 @@ You must return your response in a strict markdown structure with three headers:
 - 🟡 Minor Friction Points (Annoyances)
 - 🟢 What Works Well (Positive reinforcement)
 
-
+```
 2. ⚙️ The Strict JSON Extractor (Headless API)
 Use Case: Converting unstructured text or document images into clean JSON for your database.
-```
+
 ```Plaintext
 
 
@@ -107,10 +107,10 @@ OUTPUT FORMAT:
   "requires_human_review": "boolean"
 }
 
-
+```
 3. 🛡️ The Code-Reviewing Copilot
 Use Case: Automating GitHub PR reviews. Paste in code to find deep algorithmic flaws.
-```
+
 ```Plaintext
 
 
@@ -137,10 +137,10 @@ Use the following markdown structure:
 ### 🛠️ Suggested Refactor
 [Code block with the optimized code]
 
-
+```
 4. 📚 The RAG Synthesizer (The Librarian)
 Use Case: The engine for Retrieval-Augmented Generation. Forces the model to ONLY use your provided documents.
-```
+
 ```Plaintext
 
 
@@ -160,10 +160,10 @@ OUTPUT FORMAT:
 - A one-paragraph executive summary.
 - A bulleted list of supporting facts with [Doc X] citations.
 
-
+```
 5. 🛑 The PII Redaction Agent (The Bouncer)
 Use Case: Sanitize user inputs (chat logs, emails) to strip Personally Identifiable Information before saving to a DB.
-```
+
 ```Plaintext
 
 
