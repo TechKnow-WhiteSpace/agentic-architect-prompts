@@ -77,9 +77,10 @@ Browse the open-source collection of RCCO prompts. Click on any use-case to view
 📖 About the Series
 This library was created as part of the Agentic Architect Series—a technical deep dive into building production-grade AI agents using the Google Cloud stack (Gemini, Vertex AI, Firebase Genkit).
 
-Read Part 4 of the series: Prompt Engineering Lab: Mastering System Instructions.
+Read Part 4 of the series: [Prompt Engineering Lab: Mastering System Instructions.](https://tchknw-net.vercel.app/blog/mastering-multimodal-system-instructions-in-google-ai-studio)
 
 🤝 Contributing
+
 Have a bulletproof system instruction you use in production? Pull Requests are welcome! Please ensure any submitted prompts follow the RCCO framework.
 
 Created by Ben White. License: MIT.
