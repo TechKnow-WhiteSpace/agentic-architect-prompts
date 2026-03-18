@@ -1,0 +1,6 @@
+# Google AI SDK for the RCCO Dual-State Judge (Gemini 2.5 Flash)
+google-genai>=0.1.0
+
+# Optional: Helpful for local testing and JSONL data manipulation
+pandas>=2.0.0
+
